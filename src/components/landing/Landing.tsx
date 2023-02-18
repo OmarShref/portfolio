@@ -21,7 +21,7 @@ export default function Landing() {
               I can build you whatever you want with tons of experience any
               thing is easy
             </p>
-            <button className="relative z-10 select-none border-2 border-slate-900 p-4 shadow-grayBoxShadow_4 transition active:text-slate-800 lg:hover:translate-x-1 lg:hover:-translate-y-1 lg:hover:shadow-grayBoxShadow_10">
+            <button className="relative select-none border-2 border-slate-900 p-4 shadow-grayBoxShadow_4 transition active:translate-x-1 active:-translate-y-1 active:text-slate-900 active:shadow-grayBoxShadow_10 lg:hover:translate-x-1 lg:hover:-translate-y-1 lg:hover:shadow-grayBoxShadow_10">
               Contact Me
             </button>
           </div>
