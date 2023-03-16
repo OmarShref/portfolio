@@ -1,4 +1,5 @@
 import React from "react";
+import landingPhoto from "../assets/8.png";
 
 const Home = () => {
   return (
@@ -10,7 +11,7 @@ const Home = () => {
         <div className="max-w-xs rounded-xl bg-black/50 p-4 text-white backdrop-blur-2xl md:max-w-md md:p-8 lg:max-w-xl lg:p-10">
           <img
             className="mx-auto mb-8 w-44 md:w-48 lg:w-56"
-            src="/src/assets/8.png"
+            src={landingPhoto}
             alt="home image"
           />
           <p className="text-xs lg:text-sm">OMAR SHARIF ZAKI</p>
