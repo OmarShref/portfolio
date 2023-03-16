@@ -3,7 +3,10 @@ import React from "react";
 const Home = () => {
   return (
     <>
-      <section className="grid h-screen w-screen place-items-center bg-[url('/src/assets/3.jpg')] bg-cover bg-no-repeat pb-14 md:bg-[url('/src/assets/5.jpg')] md:pb-0 md:pl-36">
+      <section
+        id="home"
+        className="grid h-screen w-screen place-items-center bg-[url('/src/assets/3.jpg')] bg-cover bg-no-repeat pb-14 md:bg-[url('/src/assets/5.jpg')] md:pb-0 md:pl-36"
+      >
         <div className="max-w-xs rounded-xl bg-black/50 p-4 text-white backdrop-blur-2xl md:max-w-md md:p-8 lg:max-w-xl lg:p-10">
           <img
             className="mx-auto mb-8 w-44 md:w-48 lg:w-56"
