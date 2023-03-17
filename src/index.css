@@ -3,13 +3,12 @@
 @tailwind utilities;
 html {
   scroll-behavior: smooth;
+  scrollbar-width: none; /* Firefox */
 }
 body {
   font-family: "Montserrat", sans-serif;
   /* Hide scrollbar for IE, Edge and Firefox */
-  overflow-x: hidden;
   -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
