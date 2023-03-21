@@ -20,11 +20,11 @@ const Home = () => {
             I can build you whatever you want with alot of experience any thing
             sall be easy
           </p>
-          <a href="#projects">
+          <a href="#projects" className="select-none">
             <button className="mt-4 w-full rounded-md bg-white py-4 font-semibold text-black transition active:scale-95 active:bg-black active:text-white active:ring-1 active:ring-white md:hover:bg-black md:hover:text-white md:hover:ring-1 md:hover:ring-white lg:text-xl">
               See Projects
             </button>
-          </a>{" "}
+          </a>
         </div>
       </section>
     </>
