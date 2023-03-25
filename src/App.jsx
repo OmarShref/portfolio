@@ -6,10 +6,10 @@ import Contactme from "./components/Contactme";
 function App() {
   return (
     <>
-      <Nav />
       <Home />
       <Projects />
       <Contactme />
+      <Nav />
     </>
   );
 }
