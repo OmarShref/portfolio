@@ -34,7 +34,7 @@ const Projects = () => {
               href="https://github.com/OmarShref/image-development.git"
               target="_blank"
             >
-              <i className="fa-brands fa-github rounded-xl px-2 text-2xl transition hover:bg-white hover:text-black lg:text-3xl"></i>
+              <i className="fa-brands fa-github rounded-xl px-2 text-2xl transition active:scale-95 md:hover:bg-white md:hover:text-black lg:text-3xl"></i>
             </a>
           </p>
         </div>
@@ -65,7 +65,7 @@ const Projects = () => {
               href="https://github.com/OmarShref/mybookfrontend"
               target="_blank"
             >
-              <i className="fa-brands fa-github rounded-xl px-2 text-2xl transition hover:bg-white hover:text-black"></i>
+              <i className="fa-brands fa-github rounded-xl px-2 text-2xl transition active:scale-95 md:hover:bg-white md:hover:text-black lg:text-3xl"></i>
             </a>
           </p>
           <p className="lg:text-lg">
@@ -74,7 +74,7 @@ const Projects = () => {
               href="https://github.com/OmarShref/mybookbackend"
               target="_blank"
             >
-              <i className="fa-brands fa-github rounded-xl px-2 text-2xl transition hover:bg-white hover:text-black"></i>
+              <i className="fa-brands fa-github rounded-xl px-2 text-2xl transition active:scale-95 md:hover:bg-white md:hover:text-black lg:text-3xl"></i>
             </a>
           </p>
         </div>
