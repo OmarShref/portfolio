@@ -14,6 +14,8 @@ const Projects = () => {
             src={imagedevelopmentVideo}
             autoPlay
             loop
+            muted
+            playsInline
             className="pointer-events-none"
           ></video>
           <a
@@ -45,6 +47,8 @@ const Projects = () => {
             src={mybookVideo}
             autoPlay
             loop
+            muted
+            playsInline
             className="pointer-events-none"
           ></video>
           <a
