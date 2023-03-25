@@ -21,8 +21,17 @@ const Contactme = () => {
             <a href="tel:+201147713736">
               <i className="fa-solid fa-mobile-screen-button transition active:scale-95 active:text-green-400 md:hover:text-green-400"></i>
             </a>
-            <a href="https://www.linkedin.com/in/omar-shref-a66890223/">
+            <a
+              href="https://www.linkedin.com/in/omar-shref-a66890223/"
+              target="_blank"
+            >
               <i className="fa-brands fa-linkedin transition active:scale-95 active:text-blue-500 md:hover:text-blue-500"></i>
+            </a>
+            <a
+              href="https://drive.google.com/file/d/1sC9eLtV-DKhpIXAcJw84TwbeajR5Ga_E/view?usp=sharing"
+              target="_blank"
+            >
+              <i class="fa-solid fa-file transition active:scale-95 active:text-yellow-300 md:hover:text-yellow-300"></i>
             </a>
           </div>
         </div>
