@@ -15,7 +15,7 @@ const Home = () => {
             alt="home image"
           />
           <p className="text-xs lg:text-sm">OMAR SHARIF ZAKI</p>
-          <p className="text-xl lg:text-3xl">FULL STACK WEB DEVELOPER</p>
+          <p className="text-xl lg:text-3xl">Front End WEB DEVELOPER</p>
           <p className="mt-4 lg:text-lg">
             I can build you whatever you want with alot of experience any thing
             shall be easy

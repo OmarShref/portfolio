@@ -18,7 +18,7 @@ const Contactme = () => {
             <a href="mailto:mohandesomar@gmail.com">
               <i className="fa-solid fa-envelope transition active:scale-95 active:text-sky-400 md:hover:text-sky-400"></i>
             </a>
-            <a href="tel:+201147713736">
+            <a href="tel:+966504540810">
               <i className="fa-solid fa-mobile-screen-button transition active:scale-95 active:text-green-400 md:hover:text-green-400"></i>
             </a>
             <a
@@ -28,7 +28,7 @@ const Contactme = () => {
               <i className="fa-brands fa-linkedin transition active:scale-95 active:text-blue-500 md:hover:text-blue-500"></i>
             </a>
             <a
-              href="https://drive.google.com/file/d/1sC9eLtV-DKhpIXAcJw84TwbeajR5Ga_E/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ZzVB0H0zyZAS20rQfqqwwJC7JxiV_nKy/view?usp=sharing"
               target="_blank"
             >
               <i class="fa-solid fa-file transition active:scale-95 active:text-yellow-300 md:hover:text-yellow-300"></i>
